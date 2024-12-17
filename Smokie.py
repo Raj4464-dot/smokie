@@ -24,7 +24,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 ADMIN_IDS = [1949883614]
-BOT_TOKEN = "8038314614:AAHQsewufM2UbDTTENlPXADcwsWbyU_keBs"
+BOT_TOKEN = "8169032486:AAE_EFvq0FGrbic4bo7aCoy07abgf2201aE"
 MONGO_URI = "mongodb+srv://SmokieTravis:SmokieOfficial@cluster0.0ea19.mongodb.net/Travis?retryWrites=true&w=majority&appName=Cluster0"
 # MongoDB Client
 mongo_client = MongoClient(MONGO_URI)
